@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 26 Jan 2019 15:48:26 +0800</pubDate>
-    <lastBuildDate>Sat, 26 Jan 2019 15:48:26 +0800</lastBuildDate>
+    <pubDate>Sat, 26 Jan 2019 22:31:03 +0800</pubDate>
+    <lastBuildDate>Sat, 26 Jan 2019 22:31:03 +0800</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -21,10 +21,10 @@
 &lt;/style&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;质感&lt;/li&gt;
+  &lt;li&gt;数学教学&lt;/li&gt;
 &lt;/ul&gt;
 &lt;video class=&quot;video&quot; loop=&quot;&quot; controls=&quot;&quot; preload=&quot;preload&quot;&gt;
-    &lt;source src=&quot;https://searchbox.bj.bcebos.com/file1_1548488553.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    &lt;source src=&quot;https://b.bdstatic.com/file1_1548488553.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 </description>
         <pubDate>Fri, 25 Jan 2019 23:00:43 +0800</pubDate>
