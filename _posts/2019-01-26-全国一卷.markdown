@@ -2,7 +2,7 @@
 layout:     post
 title:      "2018年全国1卷"
 subtitle:   "全国卷"
-date:       2019-01-25 15:00:43
+date:       2019-01-26 15:00:43
 author:     "欧阳路"
 header-img: "img/math1.png"
 tags:
@@ -16,12 +16,12 @@ tags:
     }
 </style>
 
-- 立体几何题第一问
+## 立体几何题第一问
 <video class="video" loop controls="" preload="preload" >
     <source src="https://b.bdstatic.com/file4_1548550785.mp4" type="video/mp4">
 </video>
 
-- 立体几何题第二问
+## 立体几何题第二问
 <video class="video" loop controls="" preload="preload" >
     <source src="https://b.bdstatic.com/file1_1548550785.mp4" type="video/mp4">
 </video>
